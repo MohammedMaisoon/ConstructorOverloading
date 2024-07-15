@@ -4,7 +4,6 @@ public class Animal {
     }
     public Animal(){
         System.out.println("Empty Constructor");
-
     }
     public Animal(String a){
         System.out.println("Constructor With String Parameter");
